@@ -1,4 +1,7 @@
-# ImersaoGameDev  :video_game:	
+# Part 1 to 5 completed :ballot_box_with_check:	
+
+# ImersaoGameDev  :video_game: 
+	
 
 ##  This is the background image that i used as a scenary for my game :warning:	
 ![cenario](https://user-images.githubusercontent.com/61792159/85351559-76f72500-b4da-11ea-9f1f-f2261799ccd2.png)
