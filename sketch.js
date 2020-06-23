@@ -5,8 +5,8 @@ let somDoJogo;
 let personagem;
 
 function preload(){
-  imagemCenario = loadImage('./assets/cenario/forest.jpg'); 
-  imagemPersonagem = loadImage('./assets/personagem/correndo.png');  
+  imagemCenario = loadImage('./assets/cenario/bckground.jpg'); 
+  imagemPersonagem = loadImage('./assets/personagem/man.jpg');  
   somDoJogo = loadSound('./assets/sons/bckGroundSong.mp3');
 }
 
