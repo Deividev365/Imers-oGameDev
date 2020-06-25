@@ -6,3 +6,23 @@ canvas {
   display: block;
   justify-content: center;
 }
+
+.botao-tela-inicial {
+
+  font-family: 'Luckiest Guy', cursive;
+  padding: 1rem 1.25rem;
+  color: white;
+  font-weight: 900;
+  background-color: rgb(204, 74, 74);
+  text-transform: uppercase;
+  font-size: 30px;
+  text-align: center;
+  border: none;
+  border-radius: 80px 60px 80px;
+
+}
+
+.botao-tela-inicial:hover {
+  background-color: rgba(216, 48, 48, 0.801);
+  transition: 0.5s;
+}

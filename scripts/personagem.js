@@ -13,7 +13,7 @@ class Personagem extends Animacao {
   }
   // qntd de pulos permitidos para o personagem
   pula() {
-    if(this.pulos < 3) {
+    if(this.pulos < 2) {
       this.velocidadeDoPulo = this.alturaDoPulo;
       this.pulos++
     }
