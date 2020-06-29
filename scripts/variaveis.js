@@ -15,13 +15,18 @@ let somDoJogo;
 let somMorreu;
 let somMiddleGame;
 
+//let fita;
+
 let personagem;
 let inimigo;
 let inimigoGrande;
 let inimigoVoador;
 let pontuacao;
+let imagemVida;
+let vida;
 
-let cenaAtual = 'telaInicial';
+
+let cenaAtual = 'jogo';
 let cenas;
 let telaInicial;
 
@@ -124,4 +129,5 @@ const matrizPersonagem =[
   [440,810],
   [660,810]
 ]
+
 const inimigos = []
